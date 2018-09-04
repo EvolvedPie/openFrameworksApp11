@@ -189,7 +189,6 @@ C:\Users\Alistair\Documents\OpenFramworks\of_v0.10.0_vs2017_release\addons\ofxGu
     <ClCompile Include="..\..\..\..\OpenFramworks\of_v0.10.0_vs2017_release\addons\ofxGui\src\ofxSlider.cpp" />
     <ClCompile Include="..\..\..\..\OpenFramworks\of_v0.10.0_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp" />
     <ClCompile Include="..\..\..\..\OpenFramworks\of_v0.10.0_vs2017_release\addons\ofxGui\src\ofxToggle.cpp" />
-    <ClCompile Include="file.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\ofApp.cpp" />
   </ItemGroup>
@@ -205,7 +204,6 @@ C:\Users\Alistair\Documents\OpenFramworks\of_v0.10.0_vs2017_release\addons\ofxGu
     <ClInclude Include="..\..\..\..\OpenFramworks\of_v0.10.0_vs2017_release\addons\ofxGui\src\ofxSlider.h" />
     <ClInclude Include="..\..\..\..\OpenFramworks\of_v0.10.0_vs2017_release\addons\ofxGui\src\ofxSliderGroup.h" />
     <ClInclude Include="..\..\..\..\OpenFramworks\of_v0.10.0_vs2017_release\addons\ofxGui\src\ofxToggle.h" />
-    <ClInclude Include="Header.h" />
     <ClInclude Include="src\ofApp.h" />
   </ItemGroup>
   <ItemGroup>
